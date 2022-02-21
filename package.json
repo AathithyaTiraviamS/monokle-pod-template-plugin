@@ -5,6 +5,7 @@
   "author": "Aathithya Tiraviam",
   "repository": "https://github.com/AathithyaTiraviamS/monokle-pod-template-plugin",
   "monoklePlugin": {
+    "id": "com.github.AathithyaTiraviamS.plugin.templates",
     "modules": [
       {
         "type": "template",
