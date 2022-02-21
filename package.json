@@ -1,0 +1,15 @@
+{
+  "name": "Template plugins",
+  "description": "Custom templates plugin",
+  "version": "1.0.0",
+  "author": "Aathithya Tiraviam",
+  "repository": "https://github.com/AathithyaTiraviamS/monokle-pod-template-plugin",
+  "monoklePlugin": {
+    "modules": [
+      {
+        "type": "template",
+        "path": "basic-pod-template"
+      }
+    ]
+  }
+}
